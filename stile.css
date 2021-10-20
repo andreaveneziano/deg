@@ -89,6 +89,6 @@ html, body, .container { height: 100%; }
 
 @media screen and (max-width: 550px) {
 	.downBtn {
-		right:38%;
+		right:40%;
 	}
 }
