@@ -91,4 +91,7 @@ html, body, .container { height: 100%; }
 	.downBtn {
 		right:40%;
 	}
+	.modulo {
+		padding:20px;
+	}
 }
