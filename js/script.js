@@ -68,7 +68,8 @@ window.addEventListener('load', () => {
        */
       const strings = [
         "Pisa",
-        "25  Novembre 2021 (da confermare)",
+        "25  Novembre 2021",
+        "(data da confermare)",
         "E tu, ci sarai?",
       ];
       
